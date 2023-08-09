@@ -15,7 +15,6 @@ def runInMorning(hour, minute):
             break
         time.sleep(60)
 
-#if __name__ == "__main__":
 target_hour = 9
 target_minute = 30
 
